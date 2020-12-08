@@ -1,0 +1,2 @@
+1. Convert the post categories to stateful widget
+2. Make the post liked when it is double clicked
