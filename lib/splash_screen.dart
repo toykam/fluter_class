@@ -19,15 +19,15 @@ class SplashScreen extends StatelessWidget {
               )
             ],
             // borderRadius: BorderRadius.all(Radius.circular(100)),
-            gradient: LinearGradient(
-              colors: [
-                Colors.black, Colors.green, Colors.red
-              ],
-              begin: Alignment.topCenter,
-              end: Alignment.bottomCenter,
-              stops: [.5, .7, .9],
-              tileMode: TileMode.repeated
-            )
+            // gradient: LinearGradient(
+            //   colors: [
+            //     Colors.black, Colors.green, Colors.red
+            //   ],
+            //   begin: Alignment.topCenter,
+            //   end: Alignment.bottomCenter,
+            //   stops: [.5, .7, .9],
+            //   tileMode: TileMode.repeated
+            // )
           ),
           margin: const EdgeInsets.all(10),
           padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 15),
